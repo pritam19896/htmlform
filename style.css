@@ -80,8 +80,8 @@ p{
 }
 
 .bodychanges:hover{
-    transform: scale(1.4);
+    transform: scale(1.2);
     transition-property:transform;
-    transition-duration:2s;
+    transition-duration:1s;
 
 }
